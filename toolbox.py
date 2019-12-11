@@ -1,4 +1,3 @@
-''' Collection of functions and tools for the needs of 02450 Introduction to Machine Learning course.'''
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn import model_selection, linear_model
